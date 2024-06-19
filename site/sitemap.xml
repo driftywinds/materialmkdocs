@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.drifty.win/aboutme.html</loc>
+         <lastmod>2024-06-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.drifty.win/blog/index.html</loc>
          <lastmod>2024-06-19</lastmod>
          <changefreq>daily</changefreq>
