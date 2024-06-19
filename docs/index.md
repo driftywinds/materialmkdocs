@@ -6,6 +6,7 @@ Hey there! I curate a bunch of links for stuff on here, and try to represent wha
 ## Stuff to check out
 
 - [My Services](services/android.md)
+- [My blog with game releases](blog/index.md)
 
 ## Other Links
 
