@@ -16,7 +16,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.drifty.win/blog/2024/12/31/happy-new-years-eve.html</loc>
+         <loc>https://docs.drifty.win/links/index.html</loc>
+         <lastmod>2024-06-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.drifty.win/links/TV/links.html</loc>
+         <lastmod>2024-06-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.drifty.win/links/music/links.html</loc>
          <lastmod>2024-06-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
