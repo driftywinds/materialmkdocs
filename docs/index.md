@@ -5,4 +5,9 @@ Hey there! I curate a bunch of links for stuff on here, and try to represent wha
 
 ## Stuff to check out
 
-## Other stuff
+- [My Services](/services/Android.html)
+
+## Other Links
+
+- [zx's archive for iOS sideloading](https://t.me/zxc_archive)
+- [inotia00's ReVanced Extended for Android](https://github.com/inotia00/revanced-patches)
