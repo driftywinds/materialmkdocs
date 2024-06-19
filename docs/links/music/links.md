@@ -1,15 +1,24 @@
 <!-- # Links -->
 
-## Streaming
+## Music
 
-### Apps
+### Streaming
+
+#### Apps
 - [Blackhole ⭐](https://github.com/StarsWarrior/BlackHole)
-### Sites
-- 
+#### Sites
+- [Muer](https://muer.netlify.app/) 
+- [Beatbump](https://beatbump.io/home)
+- [Hyperpipe](https://hyperpipe.surge.sh/)
 
-## Downloading
+### Downloading
 
-### Apps
+#### Apps
 - 
-### Sites
+#### Sites
 - [doubledouble ⭐](https://doubledouble.top)
+
+## Audiobooks
+
+#### Downloading
+- [Audiobook Bay](https://audiobookbay.lu/)
