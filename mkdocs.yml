@@ -1,0 +1,49 @@
+site_name: drifty's docs
+site_url: https://docs.drifty.win
+theme:
+  favicon: images/favicon.png
+  logo: assets/logo.png
+  name: material
+  palette:
+    primary: teal
+    accent: purple
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - header.autohide
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - reject
+      - manage
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/driftywinds
+      name: drifty on Github
+plugins:
+  - blog
+  - search
+  - tags
+  - offline
+copyright: Copyright &copy; 2021 - 2024 driftywinds
