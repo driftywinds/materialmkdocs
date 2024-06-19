@@ -9,6 +9,9 @@ I mainly deal with sideloading on a very surface level that too.
 ## Repositories (AltStore, Esign, TrollApps)
 
 - I update my [AltStore Repository](https://view.drifty.win/view/?source=https://driftywinds.github.io/AltStore/apps.json) regularly whith a bunch of usefull sideloadable apps.
+
+	Pure JSON link to this is - `https://driftywinds.github.io/AltStore/apps.json`
+
 - If the AltStore Repository does not work already, I have dedicated repos for [ESign](https://driftywinds.github.io/repos/esign.json) and [TrollApps](https://driftywinds.github.io/repos/trollapps.json) too.
 - I have an alternate AltStore repo specifically for [YTLitePlus](https://driftywinds.github.io/repos/YTLPaltstore.json).
 
