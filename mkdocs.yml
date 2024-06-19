@@ -7,6 +7,7 @@ theme:
     palette:
         primary: teal
         accent: purple
+        scheme: slate
     # Palette toggle for light mode
     #- scheme: default
     #  toggle:
@@ -41,6 +42,12 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/driftywinds
       name: drifty on Github
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/driftywinds
+      name: drifty on Twitter
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/users/292236486315737088
+      name: drifty on Discord
 plugins:
   - blog
   - search
