@@ -48,7 +48,7 @@ extra:
       link: https://discord.com/users/292236486315737088
       name: drifty on Discord
     - icon: fontawesome/brands/mastodon
-      link: https://https://toot.cat/@l
+      link: https://toot.cat/@l
       name: drifty on Mastodon
 plugins:
   - blog
