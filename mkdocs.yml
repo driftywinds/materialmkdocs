@@ -9,15 +9,15 @@ theme:
         accent: purple
         scheme: slate
     # Palette toggle for light mode
-    #- scheme: default
-    #  toggle:
-    #    icon: material/lightbulb 
-    #    name: Switch to dark mode
+    #    scheme: default
+    #    toggle:
+    #      icon: material/lightbulb 
+    #      name: Switch to dark mode
     # Palette toggle for dark mode
-    #- scheme: slate
-    #  toggle:
-    #    icon: material/lightbulb-outline
-    #    name: Switch to light mode
+    #    scheme: slate
+    #    toggle:
+    #      icon: material/lightbulb-outline
+    #      name: Switch to light mode
     features:
     - navigation.instant
     - navigation.tabs
@@ -37,7 +37,6 @@ extra:
     actions:
       - accept
       - reject
-      - manage
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/driftywinds
@@ -48,6 +47,9 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.com/users/292236486315737088
       name: drifty on Discord
+    - icon: fontawesome/brands/mastodon
+      link: https://https://toot.cat/@l
+      name: drifty on Mastodon
 plugins:
   - blog
   - search
