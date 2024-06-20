@@ -11,7 +11,7 @@ theme:
         primary: teal
         accent: purple
         scheme: slate
-    # Palette toggle for light mode
+    # Palette toggle for light mode (doesnt work)
     #    scheme: default
     #    toggle:
     #      icon: material/lightbulb 
