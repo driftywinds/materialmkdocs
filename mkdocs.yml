@@ -3,6 +3,9 @@ site_url: https://docs.drifty.win
 theme:
     favicon: assets/logo.png
     logo: assets/logo.png
+    font:
+        text: Work Sans
+        code: Roboto Mono
     name: material
     palette:
         primary: teal
@@ -55,4 +58,7 @@ plugins:
   - search
   - tags
   - offline
-copyright: Copyright &copy; 2021 - 2024 driftywinds
+copyright: >
+  <a href="#__consent">Cookie settings</a>
+  <br>
+  Copyright &copy; 2019 - 2024 driftywinds 
