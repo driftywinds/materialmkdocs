@@ -23,6 +23,7 @@ GitHub was never about the repositories of code it hosted initially - it was onl
 - [Harbor profile](https://harbor.social/CAESRwokCAESIMPZan0JqK0PrC77LRVL5vkvkFKE-bVL0D3LFuKtuw9GEh9odHRwczovL3NydjEtc3RnLnBvbHljZW50cmljLmlv)
 - email = hi at drifty dot win ([pgp key](https://raw.githubusercontent.com/driftywinds/driftywinds/main/keys/hi%40drifty.win_pub.asc))
 - [lemmy profile](https://sopuli.xyz/u/drifty)
+- [enka.network profile (Genshin Builds showcase)](https://enka.network/u/Kuria/3icm3L/10000087/2521638/)
 
 <hr/>
 
