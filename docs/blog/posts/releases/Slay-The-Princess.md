@@ -6,7 +6,7 @@ date:
 
 # Slay the Princess [drifty repack]
 
-Slay the Princess [drifty repack] Build 14306808 has been uploaded.
+Slay the Princess [drifty repack] v1.2e has been uploaded.
 
 <!-- more -->
 
