@@ -1,7 +1,7 @@
 ---
 date:
   created: 2024-06-06
-  updated: 2024-06-06
+<!-- updated: 2024-06-06 -->
 ---
 
 # Little Kitty, Big City [drifty repack]
