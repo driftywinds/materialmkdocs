@@ -6,7 +6,7 @@ Everything in this section is the fruits of my labour and my experience in learn
 
 - [Android](android.md)
 - [iOS](ios.md)
-- [Deta Space](deta.md)
+- [Deta Space (DEPRECIATED)](deta.md)
 - [Miscellaneous](misc.md)
 
 <hr/>

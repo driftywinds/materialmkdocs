@@ -1,4 +1,4 @@
-# [Deta Space](https://deta.space)
+# [Deta Space](https://deta.space) (DEPRECIATED)
 
 I have setup quite a few projects that run on Deta's cloud and they are more or less stable to use.
 

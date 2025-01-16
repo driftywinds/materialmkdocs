@@ -9,6 +9,7 @@ I host barebones repositories that are compatible with [Obtanium](https://github
 - [YouTube builds](https://003274.xyz/yt)
 - [YouTube Music builds](https://003274.xyz/ytm)
 - [MiXplorer releases](https://003274.xyz/mix)
+- [Balatro Builds](https://github.com/driftywinds/balatro-builds/)
 
 ## Telegram Releases
 
@@ -18,8 +19,8 @@ I host barebones repositories that are compatible with [Obtanium](https://github
 
 ## Reddit / Lemmy Releases
 
-- I release my YouTube builds for people who are not super tech savvy and rely on Reddit for updates [here](https://new.reddit.com/r/revancedapks) as a fallback (I am u/fakedoorsarereal).
-- I also release them on Lemmy regularly [here](https://lemmy.ml/c/revancedapks).
+- ~~ I release my YouTube builds for people who are not super tech savvy and rely on Reddit for updates [here](https://new.reddit.com/r/revancedapks) as a fallback (I am u/fakedoorsarereal). ~~ EDIT 2025: - I do not post updates on Reddit anymore.
+- I also release them on Lemmy non-regularly [here](https://lemmy.ml/c/revancedapks).
 
 <hr/>
 

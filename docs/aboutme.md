@@ -19,11 +19,11 @@ GitHub was never about the repositories of code it hosted initially - it was onl
 
 ## Personals
 
-- [stats.fm profile](https://stats.fm/sabmohmaya)
-- [Harbor profile](https://harbor.social/CAESRwokCAESIMPZan0JqK0PrC77LRVL5vkvkFKE-bVL0D3LFuKtuw9GEh9odHRwczovL3NydjEtc3RnLnBvbHljZW50cmljLmlv)
+- [stats.fm profile](https://stats.fm/driftywinds)
+- [Harbor profile](https://003274.xyz/harbor)
 - email = hi at drifty dot win ([pgp key](https://raw.githubusercontent.com/driftywinds/driftywinds/main/keys/hi%40drifty.win_pub.asc))
 - [lemmy profile](https://sopuli.xyz/u/drifty)
-- [enka.network profile (Genshin Builds showcase)](https://enka.network/u/Kuria/3icm3L/10000087/2521638/)
+- [enka.network profile (Genshin Builds showcase)](https://enka.network/u/Kuria/)
 
 <hr/>
 

@@ -11,6 +11,7 @@ I mainly deal with sideloading on a very surface level that too.
 - I update my [AltStore Repository](https://003274.xyz/altstore) regularly whith a bunch of usefull sideloadable apps.
 
 	Pure JSON link to this is - `https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json`
+- [Balatro IPA file](https://github.com/driftywinds/balatro-builds/releases/latest)
 
 ## Mirrors / Backups
 

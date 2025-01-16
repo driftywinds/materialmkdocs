@@ -4,6 +4,8 @@ Here is some stuff I host on VPSs.
 
 ## Utilities
 
+### Open to use
+
 - [4get Search Engine](https://4get.drifty.win)
 - [Enclosed Instance](https://enclosed.003274.xyz/)
 - [Pairdrop instance](https://pairdrop.drifty.win/)
@@ -14,16 +16,21 @@ Here is some stuff I host on VPSs.
 	
 	`https://progress.003274.xyz/?title=My%20Project&startdate=2023-02-05&enddate=2024-04-06`
 
+### Accounts on Request
 
 - Matrix Server (closed to the public, accounts on request)
 - IRC server + [thelounge IRC client](https://github.com/thelounge/thelounge) (IRC server closed to the public, accounts on request for thelounge)
 - Bitwarden Instance (closed to the public, accounts on request)
 - [Troddit](https://github.com/burhan-syed/troddit) Instance (closed to the public, accounts on request)
 
+### Closed to the public
+
 - Immich Server (closed to the public)
 - Element Client for the Matrix Server (closed to the public)
 - Mumble Server (closed to the public)
 - Uptime Kuma Server (closed to the public)
+
+### Internal
 
 - Portainer Instances to manage my containers
 - [Pocket ID](https://github.com/stonith404/pocket-id) for auth to my internal services
