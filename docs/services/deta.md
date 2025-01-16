@@ -2,17 +2,19 @@
 
 I have setup quite a few projects that run on Deta's cloud and they are more or less stable to use.
 
+EDIT 2025: - DETA SPACE HAS SHUT DOWN THIS PAGE IS NOW A PUBLIC ARCHIVE. 
+
 ## Utilities
 
-- [Wastebin (Open Source pastebin alternative)](https://bin.003274.xyz/)
+- [Wastebin (Open Source pastebin alternative)]()
 - [URL Shortener](https://003274.xyz) (closed to the public)
-- [Snapdrop](https://snap.drifty.win)
-- [VSCode Online](https://code.drifty.win/)
+- [Pairdrop](https://003274.xyz/paidrop)
+- [VSCode Online]()
 
 ## Privacy focused stuff
 
-- [Ultraviolet Proxy](https://proxy.drifty.win/)
-- [Cobalt Proxy](https://cobalt.drifty.win/)
+- [Ultraviolet Proxy]()
+- [Cobalt Proxy]()
 
 <hr/>
 

@@ -54,7 +54,7 @@ extra:
       link: https://toot.cat/@l
       name: drifty on Mastodon
 plugins:
-  - blog
+#  - blog
   - search
   - tags
   - offline

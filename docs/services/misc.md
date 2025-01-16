@@ -4,8 +4,9 @@ Here is some stuff I host on VPSs.
 
 ## Utilities
 
-- [My Bitwarden Instance](https://bitwarden.drifty.win) (closed to the public)
-- [movie-web instance](https://watch.003274.xyz/)
+- [4get Search Engine](https://4get.drifty.win)
+- [Enclosed Instance](https://enclosed.003274.xyz/)
+- [Pairdrop instance](https://pairdrop.drifty.win/)
 - [year progress bar](https://progress.003274.xyz/year) and [month progress bar](https://progress.003274.xyz/month)
 - custom progress bar ([repo](https://github.com/driftywinds/progress-bar)) 
 	
@@ -13,7 +14,21 @@ Here is some stuff I host on VPSs.
 	
 	`https://progress.003274.xyz/?title=My%20Project&startdate=2023-02-05&enddate=2024-04-06`
 
-- [Cobalt Downloader](https://cobalt.003274.xyz) (supports downloading from a bunch of social media websites)
+
+- Matrix Server (closed to the public, accounts on request)
+- IRC server + [thelounge IRC client](https://github.com/thelounge/thelounge) (IRC server closed to the public, accounts on request for thelounge)
+- Bitwarden Instance (closed to the public, accounts on request)
+- [Troddit](https://github.com/burhan-syed/troddit) Instance (closed to the public, accounts on request)
+
+- Immich Server (closed to the public)
+- Element Client for the Matrix Server (closed to the public)
+- Mumble Server (closed to the public)
+- Uptime Kuma Server (closed to the public)
+
+- Portainer Instances to manage my containers
+- [Pocket ID](https://github.com/stonith404/pocket-id) for auth to my internal services
+- [Glance](https://github.com/glanceapp/glance) Instance (as my homepage everywhere)
+
 
 ## Software
 
@@ -21,7 +36,7 @@ Here is some stuff I host on VPSs.
 
 ## Games
 
-- [Wordle](https://wordle.003274.xyz) (can die anytime lol)
+- none right now, I used to host Wordle
 
 <hr/>
 

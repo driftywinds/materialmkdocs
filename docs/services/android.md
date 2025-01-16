@@ -6,9 +6,9 @@ I mainly deal with patching and releasing the latest version of modified YouTube
 
 I host barebones repositories that are compatible with [Obtanium](https://github.com/ImranR98/Obtainium) for automatic updates on Android phones. They are as follows: -
 
-- [YouTube builds](https://github.com/driftywinds/yt-builds)
-- [YouTube Music builds](https://github.com/driftywinds/ytm-builds)
-- [MiXplorer releases](https://github.com/driftywinds/mixplorer-releases)
+- [YouTube builds](https://003274.xyz/yt)
+- [YouTube Music builds](https://003274.xyz/ytm)
+- [MiXplorer releases](https://003274.xyz/mix)
 
 ## Telegram Releases
 

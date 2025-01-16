@@ -4,28 +4,26 @@ I mainly deal with sideloading on a very surface level that too.
 
 ## AltStore Source Viewer
 
-- I run [this](https://github.com/therealFoxster/altsource-viewer) project on my own in two versions - [GitHub pages version](https://ios.drifty.win) and [Cloudflare Pages version](https://view.drifty.win).
+- I run [this](https://github.com/therealFoxster/altsource-viewer) project on my own [here](https://view.drifty.win).
 
 ## Repositories (AltStore, Esign, TrollApps)
 
-- I update my [AltStore Repository](https://view.drifty.win/view/?source=https://driftywinds.github.io/AltStore/apps.json) regularly whith a bunch of usefull sideloadable apps.
+- I update my [AltStore Repository](https://003274.xyz/altstore) regularly whith a bunch of usefull sideloadable apps.
 
-	Pure JSON link to this is - `https://driftywinds.github.io/AltStore/apps.json`
-
-- If the AltStore Repository does not work already, I have dedicated repos for [ESign](https://driftywinds.github.io/repos/esign.json) and [TrollApps](https://driftywinds.github.io/repos/trollapps.json) too.
-- I have an alternate AltStore repo specifically for [YTLitePlus](https://driftywinds.github.io/repos/YTLPaltstore.json).
+	Pure JSON link to this is - `https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json`
 
 ## Mirrors / Backups
 
-- Mirrors to all of the above exist as a file server [here](https://files.drifty.win) and on Telegram [here](https://t.me/+rvcObIvOpctiMDI9).
+- Mirrors to some stuff exist as a file server [here](https://files.drifty.win) and on Telegram [here](https://003274.xyz/megalomania).
 
 ## Useful links for sideloading
 Here are some of the resources I have started depending on for my sideloading needs.
 
+- ⭐[YTLite GitHub repo](https://github.com/dayanch96/YTLite)
 - [uYouEnhanced GitHub repo](https://github.com/arichornlover/uYouEnhanced)
 - [YTLitePlus GitHub repo](https://github.com/YTLitePlus/YTLitePlus)
-- [AppTesters Telegram Group with IPA decryptor bot](https://t.me/AppleTesters)
-- [armconverter site with decrypted IPAs](https://armconverter.com/decryptedappstore/us/)
+- ⭐[AppTesters Telegram Group with IPA decryptor bot](https://t.me/AppleTesters)
+- ⭐[armconverter site with decrypted IPAs](https://armconverter.com/decryptedappstore/us/)
 
 <hr/>
 
