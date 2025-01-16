@@ -21,7 +21,7 @@ GitHub was never about the repositories of code it hosted initially - it was onl
 
 - [stats.fm profile](https://stats.fm/driftywinds)
 - [Harbor profile](https://003274.xyz/harbor)
-- email = hi at drifty dot win ([pgp key](https://raw.githubusercontent.com/driftywinds/driftywinds/main/keys/hi%40drifty.win_pub.asc))
+- email = hi at drifty dot win ([pgp key](https://003274.xyz/pgp)) (there might be other PGP keys on the internet for this email, they are all revoked and this is the only existing valid one)
 - [lemmy profile](https://sopuli.xyz/u/drifty)
 - [enka.network profile (Genshin Builds showcase)](https://enka.network/u/Kuria/)
 
