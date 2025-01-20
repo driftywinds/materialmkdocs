@@ -39,6 +39,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 ### Closed to the public
 
 - Immich Server (closed to the public)
+- Immich Power Tools server (closed to the public)
 - Element Client for the Matrix Server (closed to the public)
 - [Wallos](https://github.com/ellite/Wallos) Server (closed to the public)
 - Mumble Server (closed to the public)
