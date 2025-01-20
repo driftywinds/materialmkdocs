@@ -40,7 +40,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 
 - Immich Server (closed to the public)
 - Element Client for the Matrix Server (closed to the public)
-- Wallos Server (closed to the public)
+- [Wallos](https://github.com/ellite/Wallos) Server (closed to the public)
 - Mumble Server (closed to the public)
 - Uptime Kuma Server (closed to the public)
 
