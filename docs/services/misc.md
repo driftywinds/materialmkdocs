@@ -34,6 +34,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - IRC server + [thelounge IRC client](https://github.com/thelounge/thelounge) (IRC server closed to the public, accounts on request for thelounge)
 - Bitwarden Instance (closed to the public, accounts on request)
 - [Troddit](https://github.com/burhan-syed/troddit) Instance (closed to the public, accounts on request)
+- [Memos](https://github.com/usememos/memos) server (closed to the public, accounts on request)
 
 ### Closed to the public
 
