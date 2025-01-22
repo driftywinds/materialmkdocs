@@ -13,6 +13,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 
 #### GitHub
 
+- [MobaXTerm Key Generator](https://mobaxterm.003274.xyz/) / [Alternate link if previous is down](https://mobax.003274.xyz) (for exact instruction on how to use this license file go to the [repo](https://github.com/driftywinds/MobaXterm-Keygen))
 - [year progress bar](https://progress.003274.xyz/year) and [month progress bar](https://progress.003274.xyz/month)
 - custom progress bar ([repo](https://github.com/driftywinds/progress-bar)) 
 	
