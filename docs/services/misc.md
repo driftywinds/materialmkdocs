@@ -7,6 +7,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 ### Open to use
 
 #### VPS
+- [My forum](https://forum.drifty.win)
 - [4get Search Engine](https://4get.drifty.win)
 - [Enclosed Instance](https://enclosed.003274.xyz/)
 - [Pairdrop instance](https://pairdrop.drifty.win/)
