@@ -37,6 +37,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - Bitwarden Instance (closed to the public, accounts on request)
 - [Troddit](https://github.com/burhan-syed/troddit) Instance (closed to the public, accounts on request)
 - [Memos](https://github.com/usememos/memos) server (closed to the public, accounts on request)
+- [My Minecraft Skin and Cape server](https://drasl.drifty.win) (usable with Fjord Launcher)]
 
 ### Closed to the public
 
