@@ -36,8 +36,9 @@ Here is some stuff I host on VPSs and/or GitHub.
 - IRC server + [thelounge IRC client](https://github.com/thelounge/thelounge) (IRC server closed to the public, accounts on request for thelounge)
 - Bitwarden Instance (closed to the public, accounts on request)
 - [Troddit](https://github.com/burhan-syed/troddit) Instance (closed to the public, accounts on request)
-- [Memos](https://github.com/usememos/memos) server (closed to the public, accounts on request)
 - [My Minecraft Skin and Cape server](https://drasl.drifty.win) (usable with Fjord Launcher)
+- [Memos](https://github.com/usememos/memos) server (closed to the public, accounts on request)
+- [FreshRSS](https://frss.003274.xyz) server (closed to the public, accounts on request)
 
 ### Closed to the public
 
