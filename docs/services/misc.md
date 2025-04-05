@@ -13,6 +13,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [Pairdrop instance](https://pairdrop.drifty.win/)
 - [PrivateBin instance](https://bin.003274.xyz/) - Should stay online forever as long as my VPS is alive
 - [Nextflux instance](https://nf.drifty.win) (better UI companion for MiniFlux server)
+- [ReactFlux instance](https://rf.drifty.win) (UI companion for MiniFlux server)
 
 #### GitHub
 
