@@ -32,7 +32,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [mkv extractor](https://driftywinds.github.io/mkv-extract/) (extract stuff from MKV files) ([repo](https://github.com/driftywinds/mkv-extract))
 - [Nextflux instance](https://nf.drifty.win) (better UI companion for MiniFlux server)
 - [ReactFlux instance](https://rf.drifty.win) (UI companion for MiniFlux server)
-- [Container Stats viewer](https://container-stats.pages.dev) (view DockerHub and GHCR contaienr stats on the go)
+- [Container Stats viewer](https://container-stats.pages.dev) (view DockerHub and GHCR container stats on the go)
 
 ### Accounts on Request
 
