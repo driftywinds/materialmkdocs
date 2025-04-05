@@ -12,8 +12,6 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [Enclosed instance](https://enclosed.003274.xyz/)
 - [Pairdrop instance](https://pairdrop.drifty.win/)
 - [PrivateBin instance](https://bin.003274.xyz/) - Should stay online forever as long as my VPS is alive
-- [Nextflux instance](https://nf.drifty.win) (better UI companion for MiniFlux server)
-- [ReactFlux instance](https://rf.drifty.win) (UI companion for MiniFlux server)
 
 #### GitHub
 
@@ -32,6 +30,9 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [toolz instance](https://driftywinds.github.io/toolz/) (mostly for adblock) ([repo](https://github.com/driftywinds/toolz))
 - [online hash tools instance](https://driftywinds.github.io/online-tools/) ([repo](https://github.com/driftywinds/online-tools))
 - [mkv extractor](https://driftywinds.github.io/mkv-extract/) (extract stuff from MKV files) ([repo](https://github.com/driftywinds/mkv-extract))
+- [Nextflux instance](https://nf.drifty.win) (better UI companion for MiniFlux server)
+- [ReactFlux instance](https://rf.drifty.win) (UI companion for MiniFlux server)
+- [Container Stats viewer](https://container-stats.pages.dev) (view DockerHub and GHCR contaienr stats on the go)
 
 ### Accounts on Request
 
