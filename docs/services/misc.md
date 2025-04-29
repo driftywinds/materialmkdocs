@@ -12,6 +12,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [Enclosed instance](https://enclosed.003274.xyz/)
 - [Pairdrop instance](https://pairdrop.drifty.win/)
 - [PrivateBin instance](https://bin.003274.xyz/) - Should stay online forever as long as my VPS is alive
+- [Beaver Habbit Tracker](https://beaver.003274.xyz)
 
 #### GitHub
 
