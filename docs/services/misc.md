@@ -13,6 +13,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [Pairdrop instance](https://pairdrop.drifty.win/)
 - [PrivateBin instance](https://bin.003274.xyz/) - Should stay online forever as long as my VPS is alive
 - [Beaver Habbit Tracker](https://beaver.003274.xyz)
+- [selfh.st icon proxy](https://icons.003274.xyz/bitwarden.svg) - See usage [here](https://github.com/selfhst/icons?tab=readme-ov-file#linking)
 
 #### GitHub
 
