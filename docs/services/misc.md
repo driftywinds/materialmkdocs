@@ -14,6 +14,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [PrivateBin instance](https://bin.003274.xyz/) - Should stay online forever as long as my VPS is alive
 - [Beaver Habbit Tracker](https://beaver.003274.xyz)
 - [selfh.st icon proxy](https://icons.003274.xyz/bitwarden.svg) - See usage [here](https://github.com/selfhst/icons?tab=readme-ov-file#linking)
+- [Apprise Endpoint](https://apprise.003274.xyz/notify)
 
 #### GitHub
 
@@ -46,6 +47,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [Memos](https://github.com/usememos/memos) server (closed to the public, accounts on request)
 - [FreshRSS](https://frss.003274.xyz) server (closed to the public, accounts on request)
 - [MiniFlux](https://miniflux.drifty.win) server (closed to the public, accounts on request)
+- [Gotify Instance](https://gotify.drifty.win) (closed to the public, accounts on request)
 
 ### Closed to the public
 
