@@ -15,6 +15,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [Beaver Habbit Tracker](https://beaver.003274.xyz)
 - [selfh.st icon proxy](https://icons.003274.xyz/bitwarden.svg) - See usage [here](https://github.com/selfhst/icons?tab=readme-ov-file#linking)
 - [Apprise Endpoint](https://apprise.003274.xyz/notify)
+- [Spliit Instance](https://spliit.003274.xyz)
 
 #### GitHub
 
