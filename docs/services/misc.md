@@ -8,6 +8,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 
 #### VPS
 - [My forum](https://forum.drifty.win)
+- [My F-Droid repository](https://fdroid.drifty.win/repo/)
 - [4get Search Engine](https://4get.drifty.win)
 - [Enclosed instance](https://enclosed.003274.xyz/)
 - [Pairdrop instance](https://pairdrop.drifty.win/)
@@ -19,6 +20,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 
 #### GitHub
 
+- [Quaack Search Engine](https://quaack.pages.dev) (based on Unduck, better than 4get) (versatile and fast client side search engine that supports [DuckDuckGo's bangs](https://duckduckgo.com/bangs), custom bangs and customisable defualt search)
 - [MobaXTerm Key Generator](https://mobaxterm.003274.xyz/) / [Alternate link if previous is down](https://mobax.003274.xyz) (for exact instruction on how to use this license file go to the [repo](https://github.com/driftywinds/MobaXterm-Keygen))
 - [year progress bar](https://progress.003274.xyz/year) and [month progress bar](https://progress.003274.xyz/month)
 - custom progress bar ([repo](https://github.com/driftywinds/progress-bar)) 
