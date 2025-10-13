@@ -21,6 +21,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 #### GitHub
 
 - [Quaack Search Engine](https://quaack.pages.dev) (based on Unduck, better than 4get) (versatile and fast client side search engine that supports [DuckDuckGo's bangs](https://duckduckgo.com/bangs), custom bangs and customisable defualt search)
+- [BentoPDF](https://bento.drifty.win) (PDF Tools that run entirely client side. Very handy tool for PDF stuff on the go)
 - [PixelDrain Limit Bypass](https://pd.003274.xyz) (bypasses Pixeldrains's 6GB transfer daily limit, just paste the link to the file in the webpage)
 - [MobaXTerm Key Generator](https://mobaxterm.003274.xyz/) / [Alternate link if previous is down](https://mobax.003274.xyz) (for exact instruction on how to use this license file go to the [repo](https://github.com/driftywinds/MobaXterm-Keygen))
 - [year progress bar](https://progress.003274.xyz/year) and [month progress bar](https://progress.003274.xyz/month)
