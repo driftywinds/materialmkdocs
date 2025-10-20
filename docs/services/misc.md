@@ -17,6 +17,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [selfh.st icon proxy](https://icons.003274.xyz/bitwarden.svg) - See usage [here](https://github.com/selfhst/icons?tab=readme-ov-file#linking)
 - [Apprise Endpoint](https://apprise.003274.xyz/notify)
 - [Spliit Instance](https://spliit.003274.xyz)
+- [Necesse Server](https://necessegame.com/server/) - It runs at ```necesse.drifty.win:14159```, you can join from the multiplayer section of the game. To download the game for free check [this](https://drifty.win/necesse-drifty-repack).
 
 #### GitHub
 
